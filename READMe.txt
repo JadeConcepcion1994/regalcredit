@@ -16,5 +16,3 @@ Changing API Key and Location Key doesn't required to click a button as it is us
 
 Note:
 To run in localhost, kindly import the sql file in the database folder inorder for the app to properly run and execute its functions.
-
-
