@@ -4,7 +4,7 @@ This solution is made from scratch by myself and not copied in any projects or s
 Approach and Solution:
 
 I alloted 15hrs total for the development and 2hours for the logical thinking before starting the development.
-This Weather App, is made of PHP, HTML, CSS ,JQUERY, AJAX and MYSQL and XAMPP for the apache to sum up the tools I used to develop this test.
+This Weather App, is made of PHP 7.3, HTML, CSS ,JQUERY, AJAX and MYSQL and XAMPP for the apache to sum up the tools I used to develop this test.
 I used the AccuWeather API as instructed, to gather the needed data for the displaying of the weather forecast.
 
 I have made a modal with a function to add your own API Key, you may select the API Keys you want to use for this application.
