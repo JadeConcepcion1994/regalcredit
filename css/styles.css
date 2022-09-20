@@ -1,0 +1,67 @@
+body{
+	font-weight: unset;
+}
+section{
+	background-image: url('../img/bluesky.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.h-100{
+	margin-top: 50px;
+}
+.card{
+	margin-bottom: 30px;
+	color: #4B515D; 
+	border-radius: 13px;
+
+	/* fallback for old browsers */
+	background: #ffffff;
+
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 236, 210, 1));
+
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 236, 210, 1))
+}
+.font-weight-bold{
+	color: #1C2331;
+}
+
+.flex-grow-1{
+	font-size: 1rem;
+}
+.fa-fw{
+	color: #868B94;
+}
+.main-text-wrap{
+	color: white !important;
+    font-size: 15px;
+    width: 230px;
+    border: 1px white solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+.container-index{
+	margin-top: 130px !important;
+}
+.add-api-key-form{
+	margin-bottom: 30px;
+}
+.set-api-key{
+	margin-bottom: 60px;
+}
+.remove-api-keys{
+	margin-top: 50px !important;
+}
+.back-to-home{
+	color: white;
+}
+.back-to-home:hover{
+	color: black;
+}
+.location-statement{
+	font-size: 40px;
+    text-align: center;
+    color: #1C2331;
+    font-weight: 700;
+}	
